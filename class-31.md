@@ -1,4 +1,4 @@
-# Reading : Class - 23
+# Reading : Class - 31
 
 ## Hooks
 React hooks allow to to easily create and manage state in a **functional** component.
